@@ -35,3 +35,20 @@ def uygula(islem, x, y):
     return islem(x, y)
 
 print(uygula(topla, 10, 20))
+
+# Alıştırma: faktöriyel, aynı iş iki farklı yöntemle
+def faktoriyel(n):
+    """Döngü ile (iteratif): n! = 1 * 2 * ... * n"""
+    sonuc = 1
+    for i in range(2, n + 1):
+        sonuc *= i
+    return sonuc
+
+def faktoriyel_rek(n):
+    """Özyineleme ile (recursive): fonksiyon kendini çağırır."""
+    if n <= 1:            # durma koşulu (base case), yoksa sonsuza kadar çağırır
+        return 1
+    return n * faktoriyel_rek(n - 1)
+
+for n in (0, 1, 5, 10):
+    print(f"{n}! = {faktoriyel(n)} | {faktoriyel_rek(n)}")
