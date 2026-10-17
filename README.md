@@ -37,3 +37,4 @@ gunler/
 | Gün | Tarih | Kavramlar |
 |---|---|---|
 | [001](gunler/gun-001) | 2026-10-17 | Değişken ve veri tipi · Git commit |
+| [002](gunler/gun-002) | 2026-10-17 | Koşullar · Döngüler · Fonksiyonlar |
