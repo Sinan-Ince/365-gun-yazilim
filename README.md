@@ -38,3 +38,4 @@ gunler/
 |---|---|---|
 | [001](gunler/gun-001) | 2026-10-17 | Değişken ve veri tipi · Git commit |
 | [002](gunler/gun-002) | 2026-10-17 | Koşullar · Döngüler · Fonksiyonlar |
+| [003](gunler/gun-003) | 2026-10-18 | Koleksiyonlar · Hata yönetimi · Git branch |
