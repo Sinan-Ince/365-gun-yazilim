@@ -40,3 +40,4 @@ gunler/
 | [002](gunler/gun-002) | 2026-10-17 | Koşullar · Döngüler · Fonksiyonlar |
 | [003](gunler/gun-003) | 2026-10-18 | Koleksiyonlar · Hata yönetimi · Git branch |
 | [004](gunler/gun-004) | 2026-10-18 | Sınıf ve nesne · Kalıtım ve interface · .gitignore |
+| [005](gunler/gun-005) | 2026-10-23 | Dataclass ve özel metotlar · Pull Request ve merge |
