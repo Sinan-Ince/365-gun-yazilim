@@ -43,3 +43,4 @@ gunler/
 | [005](gunler/gun-005) | 2026-10-23 | Dataclass ve özel metotlar · Pull Request ve merge |
 | [006](gunler/gun-006) | 2026-10-25 | Modüller, paketler ve venv · Dosya işlemleri ve with · Merge conflict |
 | [007](gunler/gun-007) | 2026-10-25 | Linux dosya sistemi · Dosya izinleri · Pipe ve yönlendirme |
+| [008](gunler/gun-008) | 2026-10-25 | Bash değişken, koşul ve döngü · Bash fonksiyon, argüman ve exit kodları |
