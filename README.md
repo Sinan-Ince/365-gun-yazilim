@@ -45,3 +45,4 @@ gunler/
 | [007](gunler/gun-007) | 2026-10-25 | Linux dosya sistemi · Dosya izinleri · Pipe ve yönlendirme |
 | [008](gunler/gun-008) | 2026-10-25 | Bash değişken, koşul ve döngü · Bash fonksiyon, argüman ve exit kodları |
 | [009](gunler/gun-009) | 2026-10-25 | Process yönetimi ve sinyaller · systemd ve servisler |
+| [010](gunler/gun-010) | 2026-10-27 | Kullanıcı ve grup yönetimi · Paket yönetimi |
