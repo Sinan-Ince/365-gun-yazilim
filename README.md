@@ -47,3 +47,4 @@ gunler/
 | [009](gunler/gun-009) | 2026-10-25 | Process yönetimi ve sinyaller · systemd ve servisler |
 | [010](gunler/gun-010) | 2026-10-27 | Kullanıcı ve grup yönetimi · Paket yönetimi |
 | [011](gunler/gun-011) | 2026-10-29 | Metin işleme ve log analizi · Cron ve ortam değişkenleri |
+| [012](gunler/gun-012) | 2026-10-30 | Güvenli Bash betikleri · SSH anahtar ve config |
