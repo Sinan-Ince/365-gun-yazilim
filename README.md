@@ -48,3 +48,4 @@ gunler/
 | [010](gunler/gun-010) | 2026-10-27 | Kullanıcı ve grup yönetimi · Paket yönetimi |
 | [011](gunler/gun-011) | 2026-10-29 | Metin işleme ve log analizi · Cron ve ortam değişkenleri |
 | [012](gunler/gun-012) | 2026-10-30 | Güvenli Bash betikleri · SSH anahtar ve config |
+| [013](gunler/gun-013) | 2026-11-01 | Ağ temelleri · Firewall ve security group |
