@@ -49,3 +49,4 @@ gunler/
 | [011](gunler/gun-011) | 2026-10-29 | Metin işleme ve log analizi · Cron ve ortam değişkenleri |
 | [012](gunler/gun-012) | 2026-10-30 | Güvenli Bash betikleri · SSH anahtar ve config |
 | [013](gunler/gun-013) | 2026-11-01 | Ağ temelleri · Firewall ve security group |
+| [014](gunler/gun-014) | 2026-11-04 | HTTP derinlemesine · TLS ve HTTPS |
