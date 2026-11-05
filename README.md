@@ -52,3 +52,4 @@ gunler/
 | [014](gunler/gun-014) | 2026-11-04 | HTTP derinlemesine · TLS ve HTTPS |
 | [015](gunler/gun-015) | 2026-11-04 | nginx ve virtual host · Reverse proxy ve TLS sonlandırma |
 | [016](gunler/gun-016) | 2026-11-05 | JavaScript ve Node.js · Asenkron JavaScript · TypeScript temelleri |
+| [017](gunler/gun-017) | 2026-11-06 | Go temelleri · Struct, interface ve error · Goroutine ve channel |
